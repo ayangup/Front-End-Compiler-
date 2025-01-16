@@ -1,6 +1,3 @@
-# AYAN GUPTA
-# B00962542
-
 import json
 
 # This class is to represent the type and value of the tokens used.
