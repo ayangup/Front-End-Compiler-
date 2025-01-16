@@ -1,6 +1,3 @@
-# AYAN GUPTA
-# B00962542
-
 # This class is to represent the type and value of the tokens used.
 class Token:
     def __init__(self, type, value = None):
